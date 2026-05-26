@@ -2,7 +2,7 @@
   <img src="./src/assets/images/logo.png" alt="OneChat Logo" width="80" />
 </p>
 
-<h1 align="center">OneChat · 一聊</h1>
+<h1 align="center">OneChat · 一聊 Ultra(全能版)</h1>
 
 <p align="center">
   <strong>一站式多平台消息聚合桌面客户端</strong><br/>
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <strong>⚠️ 注：此项目在开源项目 <a href="https://github.com/ferdium/ferdium-app">ferdium-app</a> 的基础上进行了全面重构。</strong>
+  <strong>⚠️ 注：此项目是onechat的全能版,属于商业闭源版,开源版请去 <a href="https://github.com/OneChat-Dev/onechat">OneChat</a>,这是全开源的社区版。</strong>
 </p>
 
 <p align="center">
