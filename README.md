@@ -2,7 +2,7 @@
   <img src="./src/assets/images/logo.png" alt="OneChat Logo" width="80" />
 </p>
 
-<h1 align="center">OneChat · 一聊 Ultra(全能版)</h1>
+<h1 align="center">OneChat · 一聊 Ultra(Agent-旗舰版)</h1>
 
 <p align="center">
   <strong>一站式多平台消息聚合桌面客户端</strong><br/>
